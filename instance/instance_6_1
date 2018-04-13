@@ -1,0 +1,7 @@
+General parameters(total node number, duration, capacity)
+3 240 20
+
+node parameters (node id, demand, timewindows,x_coord, y_coord)
+0 0 0 240 11200 6400
+1 3 0 240 14000 6000
+2 2 0 240 12000 5400
